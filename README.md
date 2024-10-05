@@ -42,7 +42,7 @@ Join me on this coding odyssey as I explore the nuances of Python, JavaScript, a
 
 ## 🐍 Snake game
 <div> 
-<img src="https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg" alt="Snake animation">
+<img src="https://raw.githubusercontent.com/ulugby/ulugby/main/github-contribution-grid-snake.svg" alt="Snake animation">
 
  
   
