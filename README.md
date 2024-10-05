@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ulugbekhusainovv/ulugbekhusainovv/master/image.svg" />
+  <img src="https://raw.githubusercontent.com/ulugby/ulugby/master/image.svg" />
 </h1>
 
 ### Hi there, I'm Ulugbek 👋
@@ -14,18 +14,18 @@ Join me on this coding odyssey as I explore the nuances of Python, JavaScript, a
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://t.me/ulugbekhusain"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/FrPohCq.png"/></a>
+  <a href="https://t.me/ulugy"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/FrPohCq.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/ulugbek-husainov/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/LdUCwc6.png"></a>
+  <a href="https://www.linkedin.com/in/ulugbek-xusainov/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/LdUCwc6.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://i.imgur.com/OWdUupI.png"><img width="32px" alt="Instagram" title="Personal Profile" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ulugbekhusainovv?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ulugbekhusainovv"/></a>
-  <a href="https://github.com/ulugbekhusainovv?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ulugbekhusainovv?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/ulugby?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ulugby"/></a>
+  <a href="https://github.com/ulugby?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ulugby?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 </p>
 
 ## 🔥 Streak stats
@@ -33,7 +33,7 @@ Join me on this coding odyssey as I explore the nuances of Python, JavaScript, a
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ulugbek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ulugbekhusainovv&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ulugbek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ulugby&theme=monokai-metallian&hide_border=true"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
@@ -54,8 +54,8 @@ Join me on this coding odyssey as I explore the nuances of Python, JavaScript, a
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <div align="center">
     <br/>
-      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ulugbek's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ulugbekhusainovv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ulugbek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulugbekhusainovv&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+      <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ulugbek's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ulugby&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ulugbek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulugby&langs_count=4&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </div>
