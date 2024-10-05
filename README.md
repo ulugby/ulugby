@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ulugby/ulugby/master/image.svg" />
+  <img src="https://raw.githubusercontent.com/ulugby/ulugby/main/image.svg" />
 </h1>
 
 ### Hi there, I'm Ulugbek 👋
